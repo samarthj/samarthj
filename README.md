@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am Sam
+
+- 🔭 In my personal time, I’m currently working on open-sourcing libraries from all my private github projects 
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
+- 👯 I’m looking to collaborate on full open-source projects in any domain/ langauge to expand my learning
+- 📫 How to reach me: dev <at> samarthj <dot> com
+- 😄 Pronouns: [they/../themselves](https://pronoun.is/they/.../themselves)
+
 
 <!--
 **samarthj/samarthj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
