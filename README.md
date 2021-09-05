@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org) and polishing my [Python](https://www.python.org/) skills
 - 👯 I’m looking to collaborate on full open-source projects in any domain/ language to expand my learning
 
-- 📫 How to reach me: dev <at> samarthj <dot> com
+- 📫 How to reach me: dev [at] samarthj [dot] com
 - 😄 Pronouns: [they/../themselves](https://pronoun.is/they/.../themselves)
 - ⚡ Fun fact: I have recently discovered a love for drawing, check out my recent drawings [here](https://art.samarthj.com)
 
